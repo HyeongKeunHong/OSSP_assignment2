@@ -1,0 +1,93 @@
+    p {
+      margin-bottom: 4px;
+    }
+    
+    body {
+      background-color: goldenrod;
+    }
+    /*
+    #title{
+        width: 530px;
+        background-color: wheat;
+        color: black;
+        border-radius: 5px;
+        padding: 1px;
+        margin-right: auto;
+    }*/
+    #info{
+        width: 500px;
+        background-color: wheat;
+        margin-right: auto;
+        margin: 5px;
+        padding: 1px;
+        border-radius: 5px;
+        border: 10px solid lightgray;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+
+    #photo{
+        width: 500px;
+        background-color: wheat;
+        margin-right: auto;
+        margin: 5px;
+        padding: 1px;
+        border-radius: 5px;
+        border: 10px solid lightgray;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+    #links{
+        width: 500px;
+        background-color: wheat;
+        margin-right: auto;
+        margin: 5px;
+        padding: 1px;
+        border-radius: 5px;
+        border: 10px solid lightgray;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+    #table{
+        width: 500px;
+        background-color: wheat;
+        margin-right: auto;
+        margin: 5px;
+        padding: 1px;
+        border-radius: 5px;
+        border: 10px solid lightgray;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+    #list{
+        width: 500px;
+        background-color: wheat;
+        margin-right: auto;
+        margin: 5px;
+        padding: 1px;
+        border-radius: 5px;
+        border: 10px solid lightgray;
+        box-shadow: 0px 3px 3px rgba(0, 0, 0, 0.1);
+    }
+    
+    body {
+      font-family: "Segoe UI";
+    }
+    
+    h1 {
+      text-align: left;
+      margin-top: 0px;
+    }
+    
+    img {
+      border-radius: 10px;
+    }
+    
+    h2 {
+      border-left: 25px groove greenyellow;
+      padding-left: 15px;
+    }
+    
+    a {
+      color: steelblue;
+    }
+    
+    a:visited {
+      color: purple;
+    }
